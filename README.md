@@ -10,7 +10,7 @@ This is a Node.js command-line application that takes information about a softwa
 3) Install all dependecies using command "npm install"
 4) Enter "node index.js" in terminal
 5) Answer all questions 
-6) README.md file generated! 
+6) 'index.html' file generated! 
 
 ## User Story
 
